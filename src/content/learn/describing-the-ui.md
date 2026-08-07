@@ -552,7 +552,8 @@ Uma árvore de dependências é frequentemente usada por ferramentas de compila�
 
 <LearnMore path="/learn/understanding-your-ui-as-a-tree">
 
-Leia **[Sua interface de usuário como uma árvore](/learn/understanding-your-ui-as-a-tree)** Aprenda como criar árvores de dependências de renderização e de módulos para um aplicativo React e como elas são modelos mentais úteis para melhorar a experiência do usuário e o desempenho.
+Leia **[Sua interface de usuário como uma árvore](/learn/understanding-your-ui-as-a-tree)** para aprender como criar árvores de renderização e de dependências de módulos para um aplicativo React e como elas são modelos mentais úteis para melhorar a experiência do usuário e o desempenho.
+
 </LearnMore>
 
 

@@ -86,7 +86,7 @@
     {
       "title": "Descrevendo a IU",
       "path": "/learn/describing-the-ui",
-      "tags": ["foundation"],
+      "tags": [],
       "routes": [
         {
           "title": "Seu Primeiro Componente",
